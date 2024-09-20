@@ -37,3 +37,11 @@ The Sanity Content Studio is integrated into the project as an open-source real-
 
 ## Readme Completion
 This README.md file provides an overview of the project and guides you through the setup and deployment process. It is designed to be clear, concise, and professional, providing all the necessary information for developers and contributors. If you have any further questions or need assistance, feel free to reach out to the project maintainers.
+
+Information
+------------------
+
+Author: [UTTAM BODARA](https://buymeacoffee.com/uttambodara)
+
+License: [MIT License](https://opensource.org/licenses/MIT)
+
